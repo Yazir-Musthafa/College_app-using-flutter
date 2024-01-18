@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "420453752943",
+    "project_id": "campus-care-4e923",
+    "storage_bucket": "campus-care-4e923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420453752943:android:e1ef1d92d96878fe182d9a",
+        "android_client_info": {
+          "package_name": "com.example.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420453752943-bu48m1p1i25bp7oijpqhh4m71rgjhfed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.college",
+            "certificate_hash": "baf00f42b7724c6575a7253f1354ebed54514ddb"
+          }
+        },
+        {
+          "client_id": "420453752943-arnva50c8pr1qr1oh4neu2qhgc4vmluk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabJkCQrEN6T-bYims9oDAFbTe8E_47UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420453752943-arnva50c8pr1qr1oh4neu2qhgc4vmluk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420453752943-hn6iapcudah3u09isk7meu6jlckho0fe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.college.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
